@@ -76,18 +76,19 @@ a few sentences per question would be ideal.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-<!-- TODO: discuss -->
+
+1. This project helped me understand the relationship between interfaces and classes and gave me a basic understanding of software development. I also found this section more practical because we used VS Code instead of Eclipse and learned Git, which connects more directly to professional workflows.
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-<!-- TODO: discuss -->
+2. Yes, this project showed me that I was unsure how to separate methods between interfaces, abstract classes, and implementation classes. Reading the assignment instructions and tracing method calls helped me understand each layer’s role.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-<!-- TODO: discuss -->
+3. This project helped me see that software development involves design and testing, as well as writing code. I still enjoy it.
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -95,25 +96,29 @@ a few sentences per question would be ideal.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-<!-- TODO: discuss -->
+4. I learned how to organize a component using interfaces and classes, write JUnit tests, and use Git to manage changes. I also practiced reading documentation, solving problems independently, and breaking a larger project into smaller tasks.
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
-<!-- TODO: discuss -->
+5.
+   - Built a Java component using interfaces, an abstract class, and a concrete implementation.
+   - Wrote JUnit tests for component methods and boundary cases.
+   - Used Git to manage changes on a separate development branch.
+   - Read technical documentation to understand requirements and resolve problems.
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-<!-- TODO: discuss -->
+6. This project made me more interested in software development. I enjoyed seeing how a reusable component could support different applications.
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-<!-- TODO: discuss -->
+7. I am building a Java online shopping platform with Spring Boot to improve my coding skills. I also continue updating Canvas+, my Chrome extension, to learn through practical development. For mentorship, I could reach out to Professor Mi Zhang or Professor Yu Su for guidance on my next steps.
 
 ## Assignment Advice
 
