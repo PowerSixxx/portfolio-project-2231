@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"components.waitingline","l":"WaitingLine","k":"10"},{"p":"components.waitingline","l":"WaitingLine1"},{"p":"components.waitingline","l":"WaitingLineKernel","k":"10"},{"p":"components.waitingline","l":"WaitingLineSecondary"}];updateSearchResults();
